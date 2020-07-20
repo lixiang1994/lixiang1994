@@ -1,4 +1,13 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lixiang1994&show_icons=true&icon_color=0366d6&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 ### Hi there 👋
+
+- :cn: I’m an iOS developer in Beijing 
+- :computer: Focusing on Swift & iOS
+- :hammer: Creator of a few widely used applications and frameworks
+- :meat_on_bone: Meat lover
+- :trollface: Github is amazing, I hope to create more useful things here
+
 
 <!--
 **lixiang1994/lixiang1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
