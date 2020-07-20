@@ -5,7 +5,6 @@
 - :cn: I’m an iOS developer in Beijing 
 - :computer: Focusing on Swift & iOS
 - :hammer: Creator of a few widely used applications and frameworks
-- :meat_on_bone: Meat lover
 - :trollface: Github is amazing, I hope to create more useful things here
 
 
