@@ -16,7 +16,7 @@
 - :trollface: Github is amazing, I hope to create more useful things here
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixiang1994&hide=ruby,CSS,javascript"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lixiang1994&show_icons=true&icon_color=0366d6&text_color=718096&bg_color=ffffff&hide_title=true&hide=contribs"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lixiang1994&show_icons=true&icon_color=0366d6&text_color=718096&bg_color=ffffff&hide_title=true"/>
 
 
 <!--
