@@ -15,11 +15,10 @@
 - :hammer: Creator of a few widely used applications and frameworks
 - :trollface: Github is amazing, I hope to create more useful things here
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lixiang1994&repo=AttributedString)](https://github.com/lixiang1994/AttributedString)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixiang1994&layout=compact&hide=ruby"/>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lixiang1994&show_icons=true&icon_color=0366d6&text_color=718096&bg_color=ffffff&hide_title=true&hide=contribs"/>
+<div align="left"> 
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixiang1994&layout=compact&hide=ruby"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=lixiang1994&show_icons=true&icon_color=0366d6&text_color=718096&bg_color=ffffff&hide_title=true&hide=contribs"/>
+</div>
 
 
 <!--
